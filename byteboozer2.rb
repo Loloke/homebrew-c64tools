@@ -9,6 +9,7 @@ class Byteboozer2 < Formula
       system "make"
     end
     bin.install "b2/b2" => "byteboozer2"
+    bin.install_symlink "byteboozer2" => "b2"
   end
 
   test do

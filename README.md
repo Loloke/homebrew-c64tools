@@ -7,4 +7,5 @@ brew tap Loloke/c64tools
 brew install exomizer
 brew install byteboozer2
 brew install --cask c64debugger
+brew install --cask vice-gtk
 ```

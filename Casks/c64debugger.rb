@@ -7,5 +7,5 @@ cask "c64debugger" do
   desc "Debugger for 6502/6510 based retro systems, eg: C64, NES"
   homepage "https://github.com/slajerek/RetroDebugger"
 
-  app "C64 65XE NES Debugger v0.64.58.6/C64 Debugger.app"
+  app "C64 65XE NES Debugger v0.64.58.6/C64 Debugger.app", target: "C64Debugger.app"
 end

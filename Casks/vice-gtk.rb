@@ -10,5 +10,5 @@ cask "vice-gtk3" do
     desc "The Versatile Commodore Emulator"
     homepage "https://vice-emu.sourceforge.io/"
   
-    app ""
+    suite "VICE-GTK-v#{version}"
   end

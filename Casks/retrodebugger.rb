@@ -1,4 +1,4 @@
-cask "c64debugger" do
+cask "retrodebugger" do
   version "v0.64.66"
   sha256 "6a0a4920e589eefcb65118845f339b8cb39776ecabd6002c11aa0ef758cc6ab1"
 

@@ -3,7 +3,6 @@ class Sparkle3 < Formula
   version "3.1.231217"
   homepage "https://github.com/spartaomg/SparkleCPP"
   url "https://github.com/spartaomg/SparkleCPP.git",
-    branch:     "master",
     revision:   "712120dd6be92ef304637b5ef2b7f2a08981e3df"
   license "BSD 3-Clause"
   def install

@@ -1,9 +1,9 @@
 class Exomizer < Formula
   desc "Fast compressor for 6502 based systems (eg: Commodore 64, Apple //e, BBC Micro)"
   homepage "https://bitbucket.org/magli143/exomizer/wiki/Home"
-  url "https://bitbucket.org/magli143/exomizer/get/6a152b5605648f7a41eadd4b011a93ec92f74dd8.tar.gz"
-  version "3.1.1"
-  sha256 "11e23dc9b9758bc16a70b7b4fa4dc711c3495eebcd2fef2f3cf0b87bfe1eddef"
+  url "https://bitbucket.org/magli143/exomizer/get/df77c879ce2addc027043e5e80e3992a2ec99eb9.tar.gz"
+  version "3.1.2"
+  sha256 "01713f2ee39efc86cbe54bb6011613e097efc3bc532cdc640809e7589cd9c043"
   license ""
 
   def install

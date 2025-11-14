@@ -1,9 +1,9 @@
 cask "vice-gtk" do
     arch arm: "arm64", intel: "x86-64"
 
-    version "3.8"
-    sha256 arm:   "4d1d433345a96a7039ee257e3e8133d8744bef6331b8df737193650f84ec74c8",
-           intel: "5bcd523910991a81e480fc061252274b6dbf9c3b00891f8c10a57a89f770a51a"
+    version "3.9"
+    sha256 arm:   "02f6da1c8b37de7eb78ef082f2c00be0a15ee4cdbf9581419b12a879a4462e45",
+           intel: "e270f286982babdd31fee76dcffb0c826f6644e5a45b0806e6b576d31268bc57"
 
     url "https://sourceforge.net/projects/vice-emu/files/releases/binaries/macosx/vice-#{arch}-gtk3-#{version}.dmg/download"
     name "VICE-Emu"
